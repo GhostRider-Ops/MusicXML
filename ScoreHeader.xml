@@ -1,0 +1,26 @@
+<work>
+ <work-number>_____</work-number>
+ <work-title>_______________</work-title>
+</work>
+<movement-number>_____</movement-number>
+<movement-title>_______________</movement-title>
+<identification>
+ <creator type="composer">__________</creator>
+ <creator type="poet">__________</creator>
+ <rights>____________________</rights>
+ <encoding>
+  <encoding-date>__________</encoding-date>
+  <encoder>__________</encoder>
+  <software>____________________</software>
+  <encoding-description>____________________</encoding-description>
+ </encoding>
+ <source>____________________</source>
+</identification>
+<part-list>
+ <score-part id="P1">
+  <part-name>_______________</part-name>
+ </score-part>
+ <score-part id="P2">
+  <part-name>_______________</part-name>
+ </score-part>
+</part-list>
